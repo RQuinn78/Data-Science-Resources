@@ -9,3 +9,4 @@
 * [Deploying Machine Learning Models](https://christophergs.github.io/machine%20learning/2019/03/17/how-to-deploy-machine-learning-models/) - Guide to operationalising Deep Learning models
 * [Understanding AutoML](https://www.automl.org/book/) 
 * A Guide to [Feature Engineering and Selection](https://bookdown.org/max/FES/) for Predictive Modeling
+* A Guide to [Building Human Centred AI Products](https://pair.withgoogle.com/)
