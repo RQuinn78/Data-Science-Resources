@@ -1,5 +1,6 @@
 ## SQL Resources
 
+* [Learn SQL - W3Resource](https://www.w3resource.com/sql/tutorials.php)
 * [Select Star SQL](https://selectstarsql.com/) - an interactive e book for Learning SQL using a Death-Row inmates dataset
 * [SQL Zoo](https://sqlzoo.net/) - Learn SQL online at SQL Zoo
 * [Learn SQL in 7 Days at Guru99](https://www.guru99.com/sql.html) - Learn SQL in 7 days 
