@@ -5,6 +5,7 @@
 * [Probability and Statistics Cookbook](http://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf) 
 * [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//)
+* [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 * [Understanding Maximum Likelihood Estimation](https://rpsychologist.com/d3/likelihood/)
 * [Resources for Learning Linear Algebra](https://brohrer.github.io/linear_algebra_resources.html)
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/) - Free ebook Introduction to Applied Linear Algebra - Vectors, Matrices and Least Squares.
