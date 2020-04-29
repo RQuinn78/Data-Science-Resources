@@ -3,6 +3,7 @@
 * [Free R Resources](https://committedtotape.shinyapps.io/freeR/) - links to a collection of freely available online R books. 
 * [Efficient R programming](https://csgillespie.github.io/efficientR/index.html#building-the-book) - free online version of Efficient R Programming book.
 * [R for Data Science](https://r4ds.had.co.nz/) - Electronic version of the book by Grolemund and Wickham. 
+* [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) - Electronic version of the book by Peng
 * [The Art of R Programming](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf) 
 * Using [R for Exploratory Analysis](https://stat545.com/)
 * [A Tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/) - a collection of recipes for working with Tidyverse packages in R.
