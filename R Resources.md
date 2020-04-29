@@ -1,7 +1,8 @@
 ## R Resources
 * Resources at [RDataMining.com](http://www.rdatamining.com/resources/onlinedocs) - links to a great collection of resources for uisng R for Data Science and Data Mining
 * [Free R Resources](https://committedtotape.shinyapps.io/freeR/) - links to a collection of freely available online R books. 
-* [Efficient R pgramming](https://csgillespie.github.io/efficientR/index.html#building-the-book) - free online version of Efficient R Programming book.
+* [Efficient R programming](https://csgillespie.github.io/efficientR/index.html#building-the-book) - free online version of Efficient R Programming book.
+* [R for Data Science](https://r4ds.had.co.nz/) - Electronic version of the book by Grolemund and Wickham. 
 * [The Art of R Programming](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf) 
 * Using [R for Exploratory Analysis](https://stat545.com/)
 * [A Tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/) - a collection of recipes for working with Tidyverse packages in R.
