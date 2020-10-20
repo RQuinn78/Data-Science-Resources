@@ -7,6 +7,7 @@
 * [The Art of R Programming](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf) 
 * Using [R for Exploratory Analysis](https://stat545.com/)
 * [A Tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/) - a collection of recipes for working with Tidyverse packages in R.
+* [Tidy Modeling with R](https://www.tmwr.org/) - how to use the tidyverse suite of packages for model building in R. 
 * [Text Mining with Tidyverse](https://www.tidytextmining.com/) - a guide to text mining with Tidyverse packaes. 
 * [Caret Package](https://topepo.github.io/caret ) - a guide to the Caret package for Machine Learning with R
 * [An R Graphics Cookbook](https://r-graphics.org/)
