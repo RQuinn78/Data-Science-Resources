@@ -10,7 +10,7 @@
 * [Deploying Machine Learning Models](https://christophergs.github.io/machine%20learning/2019/03/17/how-to-deploy-machine-learning-models/) - Guide to operationalising Deep Learning models
 * [Understanding AutoML](https://www.automl.org/book/) 
 * A Guide to [Feature Engineering and Selection](https://bookdown.org/max/FES/) for Predictive Modeling
-* Best Practices for [Machine Learnning Engineering]( https://developers.google.com/machine-learning/guides/rules-of-ml/)
+* Best Practices for [Machine Learning Engineering]( https://developers.google.com/machine-learning/guides/rules-of-ml/)
 * A Guide to [Building Human Centred AI Products](https://pair.withgoogle.com/)
 * A Curated List of Important [Decision-Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 * [Network Science and Deep Learning](https://github.com/vinayprabhu/Network_Science_Meets_Deep_Learning/blob/master/1_MNIST_C_Elegans.ipynb)
