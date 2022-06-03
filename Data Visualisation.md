@@ -6,3 +6,4 @@
 * [Learning D3.js](https://wattenberger.com/blog/d3)
 * [Common D3.js graphs with code](https://www.d3-graph-gallery.com/)
 * [Facet - a Google Open Source Data Visualisation Tool](https://pair-code.github.io/facets/)
+* [Interactive web-based DataViz with R, plotly and shiny](https://plotly-r.com/)
